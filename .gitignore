@@ -3,7 +3,10 @@
 bower_components
 node_modules
 .psc-package
+.spago
 
 # Generated files
 .psci
 output
+.purs-repl
+.psc-ide-port
